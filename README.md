@@ -1,0 +1,5 @@
+- Laravel: Backend
+- Vuejs: Fontend
+- Nginx: 2 server
+- Mysql
+- Api router
